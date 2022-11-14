@@ -3,10 +3,10 @@ import { initializeApp } from 'firebase/app';
 import { getFirestore } from 'firebase/firestore';
 
 const firebaseConfig = {
-    apiKey: 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx',
-    authDomain: 'yyyyyyyyyyyyyyyyy.firebaseapp.com',
-    projectId: 'yyyyyyyyyyyyyyyyy',
-    storageBucket: "yyyyyyyyyyyyyyyyy.appspot.com",
+    apiKey: 'AIzaSyBcTluMqgGLVZ7Kzpb06QA2KNS0t9g_T2w',
+    authDomain: 'bd-react1.firebaseapp.com',
+    projectId: 'bd-react1',
+    storageBucket: "bd-react1.appspot.com",
 };
 
 const app = initializeApp(firebaseConfig);

@@ -4,6 +4,11 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
+//import './firebase';
+import 'bootswatch/dist/solar/bootstrap.min.css';
+//import 'bootswatch/dist/vapor/bootstrap.min.css';
+//import 'bootswatch/dist/darkLy/bootstrap.min.css';
+
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
