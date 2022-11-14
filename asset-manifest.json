@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/sitioreactsagua1/static/css/main.073c9b0a.css",
-    "main.js": "/sitioreactsagua1/static/js/main.6e13211a.js",
+    "main.css": "/sitioreactsagua1/static/css/main.efc19518.css",
+    "main.js": "/sitioreactsagua1/static/js/main.cfad4f50.js",
     "static/js/787.cc4e593a.chunk.js": "/sitioreactsagua1/static/js/787.cc4e593a.chunk.js",
-    "static/media/logo.svg": "/sitioreactsagua1/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/sitioreactsagua1/index.html",
-    "main.073c9b0a.css.map": "/sitioreactsagua1/static/css/main.073c9b0a.css.map",
-    "main.6e13211a.js.map": "/sitioreactsagua1/static/js/main.6e13211a.js.map",
+    "main.efc19518.css.map": "/sitioreactsagua1/static/css/main.efc19518.css.map",
+    "main.cfad4f50.js.map": "/sitioreactsagua1/static/js/main.cfad4f50.js.map",
     "787.cc4e593a.chunk.js.map": "/sitioreactsagua1/static/js/787.cc4e593a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.6e13211a.js"
+    "static/css/main.efc19518.css",
+    "static/js/main.cfad4f50.js"
   ]
 }
